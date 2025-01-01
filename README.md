@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning React.js
 
-📫 How to reach me: mkanzariya566@rku.ac.in
+📫 How to reach me: www.linkedin.com/in/maulik-kanzariya-96a056342
 
 😄 Pronouns: He/Him
 
