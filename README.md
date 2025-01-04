@@ -10,17 +10,22 @@
 ---
 
 ## 🌐 Connect with Me:
+
 <p align="center">
-  <a href="https://linkedin.com/in/maulik-kanzariya-96a056342" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kanzariya-maulik" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://leetcode.com/u/9BxatLryFU/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/kanzariya-maulik" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetCode&logoColor=black" alt="LeetCode">
   </a>
-  <a href="mailto:kanzariyamaulik9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  <!-- Email -->
+  <a href="mailto:kanzariya.maulik@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
 
 ---
 
