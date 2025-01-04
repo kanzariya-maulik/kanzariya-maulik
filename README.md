@@ -8,7 +8,9 @@
 - ⚡ Fun fact: **JavaScript is an ecosystem that's always unexpected!**
 
 ---
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kanzariya-maulik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 ## 💻 Tech Stack:
 
 ### 🖌️ Frontend:
@@ -101,13 +103,6 @@
 ## 🔝 Top Contributions:
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=kanzariya-maulik&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-</p>
-
----
-
-## 🔥 Profile Visits:
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanzariya-maulik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 
