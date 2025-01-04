@@ -10,19 +10,15 @@
 ---
 
 ## 🌐 Connect with Me:
-
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/kanzariya-maulik" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/maulik-kanzariya-96a056342" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/kanzariya-maulik" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetCode&logoColor=black" alt="LeetCode">
+  <a href="https://leetcode.com/u/9BxatLryFU/" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" />
   </a>
-  <!-- Email -->
-  <a href="mailto:kanzariya.maulik@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:kanzariyamaulik9@gmail.com" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.icons8.com/fluency/96/000000/email-open.png" alt="Email" />
   </a>
 </p>
 
