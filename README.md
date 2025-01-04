@@ -9,22 +9,6 @@
 
 ---
 
-## 🌐 Connect with Me:
-<p align="center">
-  <a href="https://linkedin.com/in/maulik-kanzariya-96a056342" target="_blank" style="margin: 0 20px;">
-    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/9BxatLryFU/" target="_blank" style="margin: 0 20px;">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" />
-  </a>
-  <a href="mailto:kanzariyamaulik9@gmail.com" target="_blank" style="margin: 0 20px;">
-    <img src="https://img.icons8.com/fluency/96/000000/email-open.png" alt="Email" />
-  </a>
-</p>
-
-
----
-
 ## 💻 Tech Stack:
 
 ### 🖌️ Frontend:
@@ -68,6 +52,24 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
   </a>
 </p>
+
+---
+
+
+
+## 🌐 Connect with Me:
+<p align="center">
+  <a href="https://linkedin.com/in/maulik-kanzariya-96a056342" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/9BxatLryFU/" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" />
+  </a>
+  <a href="mailto:kanzariyamaulik9@gmail.com" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.icons8.com/fluency/96/000000/email-open.png" alt="Email" />
+  </a>
+</p>
+
 
 ---
 
