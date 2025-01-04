@@ -11,6 +11,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kanzariya-maulik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 ## 💻 Tech Stack:
 
 ### 🖌️ Frontend:
