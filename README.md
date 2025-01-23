@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on **Airbnb Clone**  
 - 🌱 I’m currently learning **React**  
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/kanzariya-maulik)  
-- 💬 Ask me about **Node.js, Express.js, MongoDB**  
+- 💬 Ask me about **JavaScript**  
 - 📫 How to reach me: **kanzariyamaulik9@gmail.com**  
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/maulik-kanzariya-96a056342/)  
 - ⚡ Fun fact: **JavaScript is an ecosystem that's always unexpected!**
