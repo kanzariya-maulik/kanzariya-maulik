@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on **Airbnb Clone**  
-- 🌱 I’m currently learning **React**  
+- 🌱 I’m currently learning **React,React-Three-Fiber**  
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/kanzariya-maulik)  
 - 💬 Ask me about **JavaScript**  
 - 📫 How to reach me: **kanzariyamaulik9@gmail.com**  
