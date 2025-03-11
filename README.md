@@ -44,6 +44,9 @@
   <a href="https://expressjs.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
   </a>
+  <a href="https://socket.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.io" width="50" height="50"/>
+  </a>
 </p>
 
 ### 🗄️ Databases:
@@ -56,6 +59,11 @@
   </a>
 </p>
 
+
+### 🛠️ Tools:
+
+<p> <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> </a> <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="50" height="50"/> </a> <a href="https://hoppscotch.io/" target="_blank"> </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/> </a><a href="https://render.com/" target="_blank">
+</a> </p>
 ---
 
 
